@@ -1,17 +1,9 @@
 # reactproject-tmdb
 
-# TMDb Movie Search
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/SKempin/reactjs-tmdb-app/blob/master/LICENCE)
-[![GitHub stars](https://img.shields.io/github/stars/SKempin/reactjs-tmdb-app.svg?style=flat-square)](https://github.com/SKempin/reactjs-tmdb-app/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/SKempin/reactjs-tmdb-app.svg?style=flat-square)](https://github.com/SKempin/reactjs-tmdb-app/network)
 [![Mentioned in Awesome React](https://awesome.re/mentioned-badge.svg)](https://github.com/enaqx/awesome-react)
 
 TMDb Movie Search is a responsive [React](http://facebook.github.io/react/index.html) app that utilises Twitter's [typeahead.js](https://twitter.github.io/typeahead.js/) and [Bloodhound](https://github.com/twitter/typeahead.js/blob/master/doc/bloodhound.md) suggestion engine, loading data via [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api).
 
-![](https://github.com/SKempin/reactjs-tmdb-app/blob/master/docs/images/tmdb-demo.gif)
-
-## Demo
-[TMDb Movie Search - Live DEMO](https://skempin.github.io/reactjs-tmdb-app/)
 
 ## Tools
 Key tools used in this React project are:
@@ -50,18 +42,7 @@ This project makes usage of the Fetch API, utilising a polyfill for older browse
 ## Node.js
 Supports LTS version (v6).
 
-## Author
-[Stephen Kempin](https://www.stephenkempin.co.uk)
-
-[SK-UK Google Play Store](https://play.google.com/store/apps/developer?id=SK+-+UK)
-
-## Donate :coffee:
-
-If you like this project and wish to say to say thanks - I'm always open to a coffee!
-
-<a href="https://www.buymeacoffee.com/oru9CZh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
 ## License
 [MIT](https://github.com/climax1115/reactproject-tmdb/blob/master/LICENCE)
 
-You are welcome to use this however you wish within the MIT license, but please retain [my credentials](https://www.stephenkempin.co.uk/) and links back to [this repo](https://github.com/SKempin/reactjs-tmdb-app).
+You are welcome to use this however you wish within the MIT license, but please retain [my credentials](https://www.stephenkempin.co.uk/) and links back to [this repo](https://github.com/climax1115/reactproject-tmdb).
